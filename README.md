@@ -1,2 +1,8 @@
-This project is concerned with ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+
+# CLIMATE ANALYSIS 
+## A library of Python code for analysing climate data
+## Authors:
+Jason Salt
+Dave Price
+
 
